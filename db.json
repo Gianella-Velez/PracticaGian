@@ -2,7 +2,7 @@
   "empleados": [
     {
       "id": "2",
-      "nombre": "Alvaro Mamani",
+      "nombre": "Ibis Fharyde Velez",
       "area": "finanzas",
       "tipo_auto": "automovil",
       "placa": "123ABC",
@@ -10,7 +10,7 @@
     },
     {
       "id": "6f9d",
-      "nombre": "Ibis Fharyde Velez",
+      "nombre": "Gian Ariadna Velez",
       "area": "pruduccion",
       "tipo_auto": "automovil",
       "placa": "123ads",
