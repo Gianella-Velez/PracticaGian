@@ -1,0 +1,20 @@
+{
+  "empleados": [
+    {
+      "id": "2",
+      "nombre": "Alvaro Mamani",
+      "area": "finanzas",
+      "tipo_auto": "automovil",
+      "placa": "123ABC",
+      "color": "Negro"
+    },
+    {
+      "id": "6f9d",
+      "nombre": "Ibis Fharyde Velez",
+      "area": "pruduccion",
+      "tipo_auto": "automovil",
+      "placa": "123ads",
+      "color": "AMARILLO"
+    }
+  ]
+}
